@@ -1,26 +1,16 @@
-div
+a
 {
-    font-weight: 700px;
-}
-.odd
-{
-    background: #ff93c7;
-    font-size: 18px;
-}
-.odd.small
-{
-    font-size: 12px;
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif;
 }
 
-#num2
+.e1
 {
-    color: #001aff;
-    font-size: 22px;
+    background: black;
+    color: white;
 }
 
-#num4
+.e2
 {
-    font-weight: bold;
-    background: #14ff00;
-    font-size: 18px;
+    background: yellow;
 }
