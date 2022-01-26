@@ -1,16 +1,7 @@
-a
+.text_container
 {
-    font-size: 28px;
-    font: Helvetica, "Times New Roman", sans-serif;
-}
-
-.e1
-{
-    background: black;
-    color: white;
-}
-
-.e2
-{
+    font-size: 20px;
     background: yellow;
+    color: red;
+    text-align: center;
 }
