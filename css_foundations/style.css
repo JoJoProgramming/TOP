@@ -1,7 +1,26 @@
-div {
-    background: red;
-    font-size: 32px;
+div
+{
     font-weight: 700px;
-    text-align: center;
-    color: white;
+}
+.odd
+{
+    background: #ff93c7;
+    font-size: 18px;
+}
+.odd.small
+{
+    font-size: 12px;
+}
+
+#num2
+{
+    color: #001aff;
+    font-size: 22px;
+}
+
+#num4
+{
+    font-weight: bold;
+    background: #14ff00;
+    font-size: 18px;
 }
