@@ -1,27 +1,24 @@
-span
+.div1
 {
-  border: 2px blue solid;
+  background: pink;
+  border: blue solid 2px;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+.div2
+{
+  background: lightblue;
+  border: purple dotted 2px;
 }
 
-p
+.div3
 {
-  border: 2px purple solid;
-}
-
-ul
-{
-  display: inline-flex;
-  list-style: none;
-  padding: 0;
-  /* border: 5px blue solid; */
-}
-
-li
-{
-  border: 2px blue solid;
-}
-
-.inline
-{
-  display: inline;
+  background: lightsalmon;
+  border: brown solid 2px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 400px;
+  margin-top: 50px;
 }
